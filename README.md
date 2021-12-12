@@ -1,4 +1,4 @@
-# leetcode_script
+#  download_leetcode_submissions
 
 Script download all your submissions from leetcode, filter them and add to git with submission timestamps.
 
