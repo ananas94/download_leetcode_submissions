@@ -3,7 +3,7 @@ const { writeFileSync } = require("fs");
 
 let filter_problems = [ {title_slug:"wildcard-matching", timestamp:1635003565} ];
 let only_accepted = true;
-let filter_newer_than; // = 1637417431;
+let filter_newer_than = 1637417431;
 
 let {curl_request} = require("./secret.js")
 
